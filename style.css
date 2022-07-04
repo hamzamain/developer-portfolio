@@ -73,8 +73,6 @@ p {
     font-size: 40px;
 }
 
-.common {}
-
 .width-section-end {
     width: 40%;
     /* margin-left: 100px; */
@@ -123,4 +121,9 @@ li a {
 
 footer p {
     text-align: center;
+    margin: auto;
+}
+
+footer {
+    padding: 40px;
 }
